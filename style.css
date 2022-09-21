@@ -1,0 +1,31 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note, #object_name {
+    font-size: 15px;
+    color: black;
+}
+
+#input {
+    width: 30%;
+    height: 30px;
+    border-radius: 5px;
+    border-color: rgb(173, 173, 173);
+}
+
+#found_or_not, #status {
+    font-size: 20px;
+}
+
+canvas {
+    border: 5px solid grey;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 160px;
+}
